@@ -3,7 +3,7 @@
 
 - 🔭 I just finished my 2 week Le Wagon Project [Dish List](https://www.dish-list.com/)
 
-- 🌱 I’m currently learning **React, Redux and brushing up on my Javascript and SQL**
+- 🌱 I’m currently learning **React, Next.js Node.js and brushing up on my Javascript and SQL**
 
 - 👯 I’m looking to collaborate on **any projects!**
 
