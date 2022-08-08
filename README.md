@@ -14,5 +14,3 @@
 <a href="https://linkedin.com/in/anthony-heinrichs-139771a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-heinrichs-139771a9" height="30" width="40" /></a>
 <a href="https://instagram.com/tony_wants_tacos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tony_wants_tacos" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonyheinrichs&show_icons=true&locale=en&layout=compact" alt="anthonyheinrichs" /></p>
