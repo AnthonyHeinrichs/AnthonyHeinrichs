@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anthony Heinrichs</h1>
 <h3 align="center">A passionate full stack developer from Canada.</h3>
 
+- It's my birthday :) 
+
 - 🌱 I’m currently working with **React, Next.js and Node.js**
 
 - 👯 I’m looking to collaborate on **any projects!**
