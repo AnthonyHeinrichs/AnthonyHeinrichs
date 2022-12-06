@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anthony Heinrichs</h1>
-<h3 align="center">A passionate full stack developer from Canada.</h3>
-
 - 🌱 I’m currently working with **React and Node.js** while working through [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 - 👯 I’m looking to collaborate on **any projects!**
