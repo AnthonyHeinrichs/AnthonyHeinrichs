@@ -1,4 +1,4 @@
-- 🌱 I’m currently working with **React and Node.js** while working through [The Odin Project](https://www.theodinproject.com/) curriculum.
+- 🌱 I’m currently working at **Careerfoundry**.
 
 - 👯 I’m looking to collaborate on **any projects!**
 
