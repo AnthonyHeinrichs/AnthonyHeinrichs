@@ -4,7 +4,7 @@
 
 - 📫 You can reach me at **anthony.g.heinrichs@gmail.com**.
 
-- 👨‍💻 You can view any of my projects on my [website](https://www.anthonyheinrichs.com/).
+- 👨‍💻 You can view any of my projects on my [website](https://anthonys-homepage.vercel.app/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
