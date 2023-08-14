@@ -1,4 +1,4 @@
-- 🌱 I’m currently working at **Careerfoundry**.
+- 🌱 I’m currently looking for work.
 
 - 👯 I’m looking to collaborate on **any projects!**
 
